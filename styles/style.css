@@ -1,0 +1,21 @@
+h1 {
+    background: darkorange;
+    display: flex;
+    justify-content: center;
+}
+h2 {
+    background: chocolate;
+}
+p {
+    background: orange;
+}
+ul {
+    background: gold;
+}
+li {
+    color: red;
+}
+a {
+    color: red;
+    text-decoration: none;
+}
